@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Yarn cache and lock files (include yarn.lock if you want to track it)
+.yarn/
+yarn-error.log
+
+# Compiled output directories
+out/
+dist/
+
+# TypeScript incremental build files
+*.tsbuildinfo
+
+# VSCode settings folder
+.vscode/
+
+# Log files
+*.log
+
+# MacOS specific files
+.DS_Store
+
+# Environment files
+.env
