@@ -9,7 +9,12 @@
     "categories": [
         "Other"
     ],
-    "activationEvents": [],
+    "activationEvents": [
+        "onLanguage:typescriptreact",
+        "onLanguage:javascriptreact",
+        "onLanguage:typescript",
+        "onLanguage:javascript"
+    ],
     "main": "./dist/extension.js",
     "contributes": {
         "configuration": {
