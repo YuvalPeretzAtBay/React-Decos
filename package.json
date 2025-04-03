@@ -49,6 +49,10 @@
             }
         }
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YuvalPeretzAtBay/React-Decos.git"
+    },
     "scripts": {
         "vscode:prepublish": "yarn run package",
         "compile": "yarn run check-types && yarn run lint && node esbuild.js",
